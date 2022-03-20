@@ -54,9 +54,9 @@ All data is compressed with bzip2. Checksums are provided to ensure that you hav
 
 ### Download
 
-The development and test data for Discogs, Lastfm and Tagtraum is publicly available [here](https://drive.google.com/drive/folders/0B8wz5KkuLnI3RjFYSFY5TkJVU1U?resourcekey=0-guMxMfurhIbZR6fY2ZDnIw&usp=sharing).
+The development and test data for Discogs, Lastfm and Tagtraum is now publicly available on [Zenodo](https://zenodo.org/record/2553414).
 
-The development data (genre ground truth) and test data for AllMusic requires signing the **Data Usage agreement** by participants. The data will be shared to the participants in personal communication (please, ask the organizers).
+The development data (genre ground truth) and test data for AllMusic requires signing the **Data Usage agreement** by participants and is also available on [Zenodo](https://zenodo.org/record/2554044).
 
 ### Notes
 
@@ -67,28 +67,28 @@ AllMusic:
 - 1353213 recordings by 163654 releasegroups
 - 21 genres, 745 subgenres
 - 1.33 genres and 3.15 subgenres per recording on average
-- [genre/subgenre distribution](https://drive.google.com/file/d/0B9efYsv7Y7gpMzZkUVVjUnItUHM/view?usp=sharing&resourcekey=0-W_uJmsyBLypL3dS54Hif_Q)
+- [genre/subgenre distribution](../data_stats/acousticbrainz-mediaeval2017-allmusic-train.stats)
 
 Discogs:
 
 - 904944 recordings by 118475 releasegroups
 - 15 genres, 300 subgenres
 - 1.37 genres and 1.69 subgenres per recording on average
-- [genre/subgenre distribution](https://drive.google.com/file/d/0B9efYsv7Y7gpZUFSYjlJaXJhbVk/view?usp=sharing&resourcekey=0-BvM_TN6hGhT1A0unA_rw4g)
+- [genre/subgenre distribution](../data_stats/acousticbrainz-mediaeval2017-discogs-train.stats)
 
 Lastfm:
 
 - 566710 recordings by 115161 releasegroups
 - 30 genres, 297 subgenres
 - 1.14 genres and 1.28 subgenres per recordings on average
-- [genre/subgenre distribution](https://drive.google.com/file/d/0B9efYsv7Y7gpRGh6NEdIMVJ3Rk0/view?usp=sharing&resourcekey=0-eL0JFgPHg4aJ5mXJfCdrMg)
+- [genre/subgenre distribution](../data_stats/acousticbrainz-mediaeval2017-lastfm-train.stats)
 
 Tagtraum:
 
 - 486740 recordings by 69025 releasegroups
 - 31 genres, 265 subgenres
 - 1.13 genres and 1.72 subgenres per recording on average
-- [genre/subgenre distribution](https://drive.google.com/file/d/0B9efYsv7Y7gpSTZyeXlQREhsOWc/view?usp=sharing&resourcekey=0-7_o3WnkXUQPspLmwYZJZTA)
+- [genre/subgenre distribution](../data_stats/acousticbrainz-mediaeval2017-tagtraum-train.stats)
 
 Genre/subgenre taxonomy and distribution in terms of recordings and releasegroups for all four development datasets are reported [here](../data_stats/).
 
